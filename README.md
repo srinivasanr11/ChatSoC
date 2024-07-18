@@ -45,10 +45,6 @@ Chat SoC is an AI-powered chatbot developed to interact with users through text 
    - Maximum chat history is limited to 10 chats to optimize performance.
    - Ensure all dependencies are installed and configured correctly for smooth operation.
 
-## Contributors
-
-- [Sibi Siddharth S](https://github.com/sibisiddharth8/ChatSoC)
-- 
 
 ## License
 
