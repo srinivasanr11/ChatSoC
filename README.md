@@ -47,7 +47,7 @@ Chat SoC is an AI-powered chatbot developed to interact with users through text 
 
 ## Contributors
 
-- [Sibi Siddharth S]([https://github.com/your-username](https://github.com/sibisiddharth8/ChatSoC))
+- [Sibi Siddharth S]((https://github.com/sibisiddharth8/ChatSoC))
 - 
 
 ## License
