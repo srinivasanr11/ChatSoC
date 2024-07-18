@@ -1,7 +1,3 @@
-Creating a README file for your GitHub repository is essential for providing information about your project, how to set it up, and any other relevant details. Here's a basic outline you can use to create your README file:
-
----
-
 # Chat SoC - AI Powered Chatbot
 
 Chat SoC is an AI-powered chatbot developed to interact with users through text input. It offers various functionalities such as text-to-image generation, text-to-audio conversion, image downloading from URLs, YouTube video downloading, and general conversational capabilities.
